@@ -6,7 +6,12 @@
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/FactorData ",
+        "link": "https://twitter.com/FactorData",
         "image": "images/social/twitter.svg"
+    },
+        {
+        "name": "Medium",
+        "link": "https://medium.com/factor-data",
+        "image": "images/social/medium.svg"
     }
 ]
