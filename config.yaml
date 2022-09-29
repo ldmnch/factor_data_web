@@ -27,13 +27,13 @@ params:
   logo:
     alt: factor_data_logo
     desktop: images/logo/logo_factor_negro.png
-    desktop_height: 36px
+    desktop_height: 48px
     mobile: images/logo/logo_factor_chico.png
     mobile_height: 36px
   seo:
     meta_og_image: https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png
-    meta_twitter_creator: '@zerostaticio'
-    meta_twitter_site: '@zerostaticio'
+    meta_twitter_creator: '@FactorData'
+    meta_twitter_site: '@FactorData'
   services:
     summary_truncate: 120
   team:
