@@ -4,7 +4,7 @@ draft: false
 image: images/team/michael-dam-258165-unsplash.jpg
 jobtitle: Investigador
 title: Dr. Ariel Wilkis
-weight: 4
+weight: 2
 ---
 
 CONICET, IDAES/UNSAM

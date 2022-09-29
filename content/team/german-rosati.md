@@ -6,7 +6,7 @@ jobtitle: Director
 linkedinurl: https://www.linkedin.com/
 promoted: true
 title: Dr. Germán Rosati
-weight: 1
+weight: 2
 ---
 
 CONICET, IDAES/UNSAM

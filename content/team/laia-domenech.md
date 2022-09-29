@@ -4,7 +4,7 @@ draft: false
 image: images/team/joseph-gonzalez-399972-unsplash.jpg
 jobtitle: Asistente de investigación 
 title: Laia Domenech
-weight: 3
+weight: 2
 ---
 
 Estudiante de Sociología UBA, coordinadora del área de datos de EcoFeminita.
