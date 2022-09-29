@@ -23,7 +23,7 @@ params:
   google_tag_manager_id: ''
   homepage:
     show_contact_box: yes
-    show_services_button: no
+    show_services_button: 
   logo:
     alt: factor_data_logo
     desktop: images/logo/logo_factor_color.png
