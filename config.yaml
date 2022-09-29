@@ -48,7 +48,7 @@ menu:
       weight: 2
   main:
     - name: Proyectos
-      url: /services/
+      url: /projects/
       weight: 1
     - name: Equipo
       url: /team/
