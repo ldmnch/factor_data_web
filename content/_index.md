@@ -1,5 +1,5 @@
 ---
-description: Serif is a modern business theme for Hugo.
+description: Ciencias Sociales Computacionales
 intro_image: images/graficos_ilustraciones/mapa_landcover.jpeg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
