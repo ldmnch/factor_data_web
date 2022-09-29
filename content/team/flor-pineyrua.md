@@ -4,6 +4,7 @@ draft: false
 image: images/team/cristian-newman-94319-unsplash.jpg
 jobtitle: Becaria
 title: Lic. Florencia Piñeyrúa
+promoted: true
 weight: 2
 ---
 

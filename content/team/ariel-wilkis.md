@@ -4,6 +4,7 @@ draft: false
 image: images/team/michael-dam-258165-unsplash.jpg
 jobtitle: Investigador
 title: Dr. Ariel Wilkis
+promoted: true
 weight: 2
 ---
 

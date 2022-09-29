@@ -4,6 +4,7 @@ draft: false
 image: images/team/joseph-gonzalez-399972-unsplash.jpg
 jobtitle: Asistente de investigación 
 title: Laia Domenech
+promoted: true
 weight: 2
 ---
 

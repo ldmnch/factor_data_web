@@ -4,6 +4,7 @@ draft: false
 image: images/team/vince-fleming-613817-unsplash.jpg
 jobtitle: Asistente de investigación 
 title: Lic. Tomás Maguire
+promoted: true
 weight: 2
 ---
 
