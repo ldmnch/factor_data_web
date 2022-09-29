@@ -6,7 +6,7 @@ jobtitle: Investigador
 linkedinurl: https://www.linkedin.com/
 title: Dr. Ariel Wilkis
 promoted: true
-weight: 2
+weight: 3
 ---
 
 CONICET, IDAES/UNSAM

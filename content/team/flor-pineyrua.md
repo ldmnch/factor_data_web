@@ -6,7 +6,7 @@ linkedinurl: https://www.linkedin.com/
 jobtitle: Becaria
 title: Lic. Florencia Piñeyrúa
 promoted: true
-weight: 3
+weight: 4
 ---
 
 Socióloga EIDAES/UNSAM, Becaria doctoral CONICET

@@ -6,7 +6,7 @@ jobtitle: Asistente de investigación
 linkedinurl: https://www.linkedin.com/
 title: Laia Domenech
 promoted: true
-weight: 3
+weight: 5
 ---
 
 Estudiante de Sociología UBA, coordinadora del área de datos de EcoFeminita.
