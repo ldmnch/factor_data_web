@@ -5,7 +5,7 @@ image: images/team/vince-fleming-613817-unsplash.jpg
 jobtitle: Asistente de investigación 
 title: Lic. Tomás Maguire
 promoted: true
-weight: 2
+weight: 3
 ---
 
 Sociólogo-EIDAES/UNSAM, Machine Learning Engineer Accenture

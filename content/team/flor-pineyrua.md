@@ -5,7 +5,7 @@ image: images/team/cristian-newman-94319-unsplash.jpg
 jobtitle: Becaria
 title: Lic. Florencia Piñeyrúa
 promoted: true
-weight: 2
+weight: 3
 ---
 
 Socióloga EIDAES/UNSAM, Becaria doctoral CONICET
