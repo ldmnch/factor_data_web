@@ -6,7 +6,7 @@ jobtitle: Asistente de investigación
 linkedinurl: https://www.linkedin.com/
 title: Lic. Tomás Maguire
 promoted: true
-weight: 3
+weight: 6
 ---
 
 Sociólogo-EIDAES/UNSAM, Machine Learning Engineer Accenture
