@@ -26,7 +26,7 @@ params:
     show_services_button: no
   logo:
     alt: factor_data_logo
-    desktop: images/logo/logo_factor_negro.png
+    desktop: images/logo/logo_factor_color.png
     desktop_height: 48px
     mobile: images/logo/logo_factor_chico.png
     mobile_height: 36px

@@ -8,6 +8,6 @@ Se trata de un espacio abierto de experimentación que busca potenciar el desarr
 
 En ese sentido, factor~data se propone tres líneas de trabajo:
 
-- Investigación básica:
-- Investigación aplicada: 
+- Investigación básica
+- Investigación aplicada
 - Formación y pedagogía
