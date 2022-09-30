@@ -47,8 +47,8 @@ menu:
       url: /contact/
       weight: 2
   main:
-    - name: Proyectos
-      url: /projects/
+    - name: Líneas de trabajo
+      url: /lines/
       weight: 1
     - name: Equipo
       url: /team/
