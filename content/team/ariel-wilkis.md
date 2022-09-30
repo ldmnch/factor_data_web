@@ -1,7 +1,7 @@
 ---
 date: "2018-12-20T13:44:55+10:00"
 draft: false
-image: images/team/michael-dam-258165-unsplash.jpg
+image: images/team/ariel-wilkis.jpg
 jobtitle: Investigador
 linkedinurl: https://www.linkedin.com/
 title: Dr. Ariel Wilkis
