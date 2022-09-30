@@ -34,7 +34,7 @@ params:
     meta_og_image: https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png
     meta_twitter_creator: '@zerostaticio'
     meta_twitter_site: '@zerostaticio'
-  services:
+  projects:
     summary_truncate: 400
   team:
     summary_large_truncate: 400
