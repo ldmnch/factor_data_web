@@ -35,9 +35,9 @@ params:
     meta_twitter_creator: '@zerostaticio'
     meta_twitter_site: '@zerostaticio'
   services:
-    summary_truncate: 120
+    summary_truncate: 400
   team:
-    summary_large_truncate: 120
+    summary_large_truncate: 400
 menu:
   footer:
     - name: Inicio
