@@ -56,6 +56,9 @@ menu:
     - name: Sobre nosotros
       url: /about/
       weight: 3
+    - name: Publicaciones
+      url: /publicaciones/
+      weight: 4
     - name: Contacto
       url: /contact/
-      weight: 4
+      weight: 5
