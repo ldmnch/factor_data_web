@@ -9,4 +9,4 @@ title: Dr. Germán Rosati
 weight: 1
 ---
 
-Investigador Asistente CONICET, Profesor en EIDAES-UNSAM. Sus intereses de investigación se centran en la estructura social y agraria, los modos de expansión de la frontera agrícola y la aplicación de métodos de machine learning a las ciencias sociales.
+Sociólogo, Investigador Asistente CONICET, Profesor en EIDAES-UNSAM. Sus intereses de investigación se centran en la estructura social y agraria, los modos de expansión de la frontera agrícola y la aplicación de métodos de machine learning a las ciencias sociales.
