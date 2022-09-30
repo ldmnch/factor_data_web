@@ -27,7 +27,7 @@ params:
   logo:
     alt: factor_data_logo
     desktop: images/logo/logo_factor_color.png
-    desktop_height: 48px
+    desktop_height: 72px
     mobile: images/logo/logo_factor_chico.png
     mobile_height: 36px
   seo:
