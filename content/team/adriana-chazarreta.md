@@ -9,4 +9,4 @@ title: Dra. Adriana Chazarreta
 weight: 2
 ---
 
-CONICET, IDAES/UNSAM.
+Socióloga, Investigadora Asistente CONICET, Profesora Adjunta IDAES/UNSAM.
