@@ -4,7 +4,7 @@ draft: false
 image: images/team/german-rosati.jpg
 jobtitle: Coordinador
 linkedinurl: https://www.linkedin.com/
-url: http://gefero.github.io
+personalurl: http://gefero.github.io
 promoted: true
 title: Dr. Germán Rosati
 weight: 1
