@@ -17,12 +17,13 @@ En este sentido, desarrollamos investigación en las siguientes líneas básicas
 ### Procesamiento de lenguaje natural (NLP) aplicado a las ciencias sociales
 Esta línea de trabajo se propone explorar la viabilidad de diferentes técnicas de _natural language processing_ -modelado de tópicos, word embeddings, etc.- para su aplicación en problemas de las ciencias sociales. Existen tres proyectos en esta línea:
 
-- Análisis de comentarios de lectores en noticias de COVID.19 (tags: NLP, Text Mining, COVID-19, lectores)
+- Análisis de comentarios de lectores en noticias de COVID-19
 - Los temas de la música popular argentina
 - Divergentes y polarizados. Un estudio computacional sobre la esfera pública Argentina (2022-2025)
 
 
-### Análisis espacial
+### Territorio, espacio y desigualdad
+¿Cómo se expresan las desigualdades en el territorio? ¿Cuáles son las marcas antrópicas sobre los sistemas de bosques nativos? ¿Cómo medirlas? El uso de datos espaciales provenientes de diferentes fuentes (oficiales, de aplicaciones de ruteo, de imágenes satelitales y sus derivados) y su análisis mediante herramientas vinculadas al aprendizaje automático pueden ayudar a abordar este tipo de preguntas. En esta línea de indagación se inscribenlos siguientes proyectos.
 
 - [Mapa de accesibilidad a Servicios Básicos](https://acceso.shinyapps.io/mapa/)
 - Mapeo de desmontes en bosques nativos de Argentina. Propuesta de mejoras en el Sistema de Alerta Temprana de Deforestación
