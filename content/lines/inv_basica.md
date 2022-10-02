@@ -14,12 +14,18 @@ Finalmente, Big Data y Machine Learning, impactan también en las etapas de prep
 
 Parte fundamental de la tarea de factor~data se centra en la identificación de problemas de investigación (nuevos y clásicos) abordables mediante estas técnicas y fuentes de datos. Se llevan adelante investigaciones originales que permitan la producción de conocimiento sobre las estructuras sociales y sus dinámicas
 
-### Proyectos:
+En este sentido, desarrollamos investigación en las siguientes líneas básicas de trabajo.
 
-- Análisis de comentarios de lectores en noticias de COVID.19 (tags: NLP, Text Mining, COVID-19, lectores) - FINALIZADO
-- Mapa de accesibilidad a Servicios Básicos - FINALIZADO
+### Procesamiento de lenguaje natural (NLP) aplicado a las ciencias sociales
+Esta línea de trabajo se propone explorar la viabilidad de diferentes técnicas de _natural language processing_ -modelado de tópicos, word embeddings, etc.- para su aplicación en problemas de las ciencias sociales. Existen tres proyectos en esta línea:
 
+- Análisis de comentarios de lectores en noticias de COVID.19 (tags: NLP, Text Mining, COVID-19, lectores)
 - Los temas de la música popular argentina
-- Beca Laia
-- Beca Flor
+- Divergentes y polarizados. Un estudio computacional sobre la esfera pública Argentina (2022-2025)
 
+
+### Análisis espacial
+
+- [Mapa de accesibilidad a Servicios Básicos](https://acceso.shinyapps.io/mapa/)
+- Mapeo de desmontes en bosques nativos de Argentina. Propuesta de mejoras en el Sistema de Alerta Temprana de Deforestación
+- Detección de zonas de avance y retroceso de la frontera agraria argentina. Deforestación y expansión agrícola en el terrotrio nacional.
