@@ -21,7 +21,6 @@ Esta línea de trabajo se propone explorar la viabilidad de diferentes técnicas
 - Los temas de la música popular argentina
 - Divergentes y polarizados. Un estudio computacional sobre la esfera pública Argentina (2022-2025)
 
-
 ### Territorio, espacio y desigualdad
 ¿Cómo se expresan las desigualdades en el territorio? ¿Cuáles son las marcas antrópicas sobre los sistemas de bosques nativos? ¿Cómo medirlas? El uso de datos espaciales provenientes de diferentes fuentes (oficiales, de aplicaciones de ruteo, de imágenes satelitales y sus derivados) y su análisis mediante herramientas vinculadas al aprendizaje automático pueden ayudar a abordar este tipo de preguntas. En esta línea de indagación se inscribenlos siguientes proyectos.
 
