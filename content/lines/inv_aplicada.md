@@ -6,8 +6,6 @@ title: Investigación aplicada
 weight: 2
 ---
 
-desde las CSC.
-
 factor~data espera convertirse en una referencia tanto a nivel local, como nacional y regional en el uso y aplicación de estas técnicas para potenciar la investigación en ciencias sociales; es por ello que una de sus líneas busca dar soporte metodológico, técnico y computacional a otras investigaciones, ya sean del IDAES, de la UNSAM o de otros organismos públicos y/o privados
 
 ### Proyectos
