@@ -6,9 +6,6 @@ title: Formación y pedagogía
 weight: 3
 ---
 
-en distintos espacios. 
-
-
 Por último, un último eje de trabajo implica fomentar la innovación en la formación de grado y posgrado en las Ciencias Sociales. Será necesario avanzar en la oferta de cursos y materias (independientemente de su forma curricular) que puedan fortalecer tres grandes áreas pedagógicas que hoy constituyen puntos ciegos en la formación curricular de las Ciencias Sociales:
 
 - Metodología de la investigación: nada reemplaza a una buena pregunta de investigación (sea básica o aplicada); una habilidad fundamental para les científiques sociales (cualquiera sea su ámbito de actuación profesional) es la capacidad de generar las preguntas correctas. En el contexto de un incremento de las fuentes de datos y técnicas de análisis, resulta fundamental poder saber qué hacer con esos datos y, eventualmente, cómo traducir preguntas de investigación a problemas concretos abordables con estas técnicas.
