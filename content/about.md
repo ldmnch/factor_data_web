@@ -7,6 +7,6 @@ Se trata de un espacio abierto de experimentación que busca potenciar el desarr
 
 En ese sentido, factor~data se propone tres líneas de trabajo:
 
-- [Investigación básica](https://factor-data.netlify.app/projects/inv_basica/)
-- [Investigación aplicada](https://factor-data.netlify.app/projects/inv_aplicada/)
-- [Formación y pedagogía](https://factor-data.netlify.app/projects/pedagogia/)
+- [Investigación básica](https://factor-data.netlify.app/lines/inv_basica/)
+- [Investigación aplicada](https://factor-data.netlify.app/lines/inv_aplicada/)
+- [Formación y pedagogía](https://factor-data.netlify.app/lines/pedagogia/)

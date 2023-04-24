@@ -56,7 +56,7 @@ menu:
     - name: Sobre nosotros
       url: /about/
       weight: 3
-    - name: Publicaciones
+    - name: Investigación
       url: /publicaciones/
       weight: 4
     - name: Contacto

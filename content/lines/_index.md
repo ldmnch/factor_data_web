@@ -8,5 +8,5 @@ title: Líneas de trabajo
 
 # Formación, investigación y divulgación
 
-El espacio propone varias líneas de trabajo para potenciar el uso de las Ciencias Sociales con técnicas computacionales. 
+El espacio propone tres líneas de trabajo para potenciar el uso de las Ciencias Sociales con técnicas computacionales. 
 
