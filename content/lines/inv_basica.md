@@ -17,7 +17,7 @@ En este sentido, desarrollamos investigación en las siguientes líneas básicas
 ### Procesamiento de lenguaje natural (NLP) aplicado a las ciencias sociales
 Nos proponemos explorar la viabilidad de diferentes técnicas de _natural language processing_ -modelado de tópicos, word embeddings, etc.- para su aplicación en problemas de las ciencias sociales. ¿Cómo enriquecerse y ecalarse los análisis de discurso tradicionales con nuevas técnicas computacionales? ¿Qué nuevas preguntas pueden plantearse? ¿Cómo pueden complementarse técnicas analíticas tradicionales (como la _grounded theory_ o el análisis cuantitativo de contenido) con herramientas como el modelado de tópicos o los _embeddings_ de palabras? Existen tres proyectos en esta línea:
 
-- Análisis de comentarios de lectores en noticias de COVID-19
+- [Análisis de comentarios de lectores en noticias de COVID-19](https://revistasacademicas.unsam.edu.ar/index.php/papdetrab/article/view/1290)
 - Los temas de la música popular argentina
 - Divergentes y polarizados. Un estudio computacional sobre la esfera pública Argentina (2022-2025)
 
