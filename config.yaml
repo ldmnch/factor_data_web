@@ -47,16 +47,16 @@ menu:
       url: /contact/
       weight: 2
   main:
-    - name: Líneas de trabajo
-      url: /lines/
-      weight: 1
-    - name: Equipo
-      url: /team/
-      weight: 2
     - name: Sobre nosotros
       url: /about/
+      weight: 1
+    - name: Líneas de trabajo
+      url: /lines/
+      weight: 2
+    - name: Equipo
+      url: /team/
       weight: 3
-    - name: Investigación
+    - name: Publicaciones
       url: /publicaciones/
       weight: 4
     - name: Contacto

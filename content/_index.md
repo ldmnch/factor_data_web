@@ -7,6 +7,6 @@ meta_title: factor~data
 title: Inicio
 ---
 
-# factor~data. Ciencias Sociales Computacionales en la Escuela IDAES.
+# factor~data. Ciencias Sociales Computacionales en la Escuela IDAES
 
-Es un espacio de investigación y formación nacido en 2020, que busca fomentar el uso de herramientas computacionales aplicadas a la resolución de preguntas de estudio tradicionales. 
+Se trata de un espacio abierto de experimentación que busca potenciar el desarrollo de las Ciencias Sociales mediante la promoción de el uso de fuentes de datos (nuevas y tradicionales) y la aplicación de técnicas computacionales de análisis de datos.

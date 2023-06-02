@@ -5,7 +5,7 @@ intro_image_hide_on_mobile: false
 title: Investigación
 ---
 
-# Investigación
+# Investigación (en construcción)
 
 A continuación presentamos las publicaciones más recientes del equipo. 
 
