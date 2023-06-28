@@ -29,8 +29,8 @@ El track consta de 4 materias:
 ### Taller de investigación en encuestas. Del cuestionario al informe (grado)
 Esta materia se propone recorrer las principales etapas de la investigación social en base a encuestas. Tiene un formato de taller y a lo largo de la cursada se trabajan tanto aspectos metodológicos como los pasos a seguir en un operativo de campo de encuesta: desde el diseño del cuestionario hasta la confección del informe final para la comunicación de resultados. A partir de la participación en una experiencia de investigación aplicada concreta se espera que la/os estudiantes puedan adquirir el conocimiento y la experiencia necesaria para formar parte activa en este tipo de relevamientos. 
 
-### Diploma universitario en Ciencias Sociales Computacionales y Humanidades Digitales
-La presente diplomatura se propone realizar una primera aproximación al rol de las Ciencias Sociales Computacionales y a algunas de sus técnicas principales. Los resultados se observan cotidianamente: desde los servicios provistos por las compañías más importantes, pasando por la implementación y evaluación de políticas públicas, llegando hasta el abordaje de problemas clásicos de las ciencias sociales como la desigualdad, la estructura social, el conflicto, las construcciones culturales, etc. En todos estos casos, se estudian comportamientos y efectos humanos por medios computacionales.
+### Diploma en Ciencias Sociales Computacionales y Humanidades Digitales
+El diploma se propone realizar una primera aproximación al rol de las Ciencias Sociales Computacionales y a algunas de sus técnicas principales. Los resultados se observan cotidianamente: desde los servicios provistos por las compañías más importantes, pasando por la implementación y evaluación de políticas públicas, llegando hasta el abordaje de problemas clásicos de las ciencias sociales como la desigualdad, la estructura social, el conflicto, las construcciones culturales, etc. En todos estos casos, se estudian comportamientos y efectos humanos por medios computacionales.
 
 Les asistentes deberán cursar los siguientes módulos para aprobar la diplomatura:
 
@@ -51,3 +51,5 @@ Equipo docente
 - José Sánchez (USXXI - Wildlife games)
 - Germán Rosati (CONICET, IDAES-UNSAM)
 - Zacarías Abuchanab (UBA)
+
+[Más información](https://www.unsam.edu.ar/escuelas/idaes/671/idaes/ciencias-sociales-computacionales-humanidades-digitales)
