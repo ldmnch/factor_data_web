@@ -9,4 +9,4 @@ promoted: true
 weight: 6
 ---
 
-Sociólogo-EIDAES/UNSAM, Machine Learning Engineer Accenture
+Sociólogo-EIDAES/UNSAM. Se desempeña como Machine Learning Engineer en Accenture. Sus intereses se centran en la aplicación de modelos de aprendizaje automático a las ciencias sociales. 
