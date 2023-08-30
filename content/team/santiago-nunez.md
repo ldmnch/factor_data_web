@@ -3,7 +3,7 @@ date: "2018-12-20T13:44:23+10:00"
 draft: false
 image: images/team/santiago-nunez.png
 jobtitle: Asistente de investigación 
-linkedinurl: https://www.linkedin.com/in/tomasebm/
+linkedinurl: 
 title: Santiago Núñez Rimedio
 promoted: true
 weight: 6
