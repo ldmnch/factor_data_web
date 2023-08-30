@@ -1,7 +1,7 @@
 ---
 date: "2018-12-20T13:44:23+10:00"
 draft: false
-image: images/team/tomas-maguire.jpg
+image: images/team/santiago-nunez.png
 jobtitle: Asistente de investigación 
 linkedinurl: https://www.linkedin.com/in/tomasebm/
 title: Santiago Núñez Rimedio
